@@ -2,3 +2,4 @@
 
 An example that will cause a build failure
 Add more lines here.
+second
